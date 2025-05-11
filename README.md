@@ -31,7 +31,7 @@ git clone https://github.com/machfudin37/E-Futsal.git
 3. **Buka ```localhost/e-futsal``` untuk menjalankan aplikasi**
 
 
-# App-Topsis
+## E Futsal
 E-Futsal merupakan aplikasi yang dibuat untuk penyedia jasa penyewaan lapangan futsal dalam mengelola lapangan yang disewakan kepada member. aplikasi ini dibangun menggunakan Framework Codeigniter versi 3.
 
 ## Demo
